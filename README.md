@@ -8,11 +8,7 @@ OpenSARWake is a benchmark dataset built for ship wake detection. This collectio
 <img src="samples.jpg" height="400px"  alt="samples" >
 </div>
 
-**Link**
-
-OpenSARWake can be downloaded from [Baiduyun](https://pan.baidu.com/s/1BaENq8D0WF58B6faZVLmXA) or [Onedrive](https://1drv.ms/u/s!AqTp7jo0qiKFkSI2giXypLXGwhP4?e=9JUU7X).
-
-***Since our paper is in the review stage, we have encrypted the dataset, and we will release the password after the paper is accepted.***
+OpenSARWake can be downloaded from [Baiduyun](https://pan.baidu.com/s/1Ji_TACJQSa_d-5lo3sb7YA?pwd=t123). We will consider uploading it to other platforms in the future.
 
 If you have any problem, please contact me by email：xuchj9@mail2.sysu.edu.cn
 
@@ -20,5 +16,11 @@ If you have any problem, please contact me by email：xuchj9@mail2.sysu.edu.cn
 
 If you find this dataset helpful for your research, please cite this paper:
 
-[1] Chengji Xu; Xiaoqing Wang. OpenSARWake: A Large-Scale SAR Dataset for Ship Wake Recognition with a Feature Refinement Oriented Detector. (*submitted to IEEE Geoscience and Remote Sensing Letters*)
-
+```
+@ARTICLE{10507047,
+  author={Xu, Chengji and Wang, Xiaoqing},
+  journal={IEEE Geoscience and Remote Sensing Letters}, 
+  title={OpenSARWake: A Large-Scale SAR Dataset for Ship Wake Recognition with a Feature Refinement Oriented Detector}, 
+  year={2024},
+  doi={10.1109/LGRS.2024.3392681}}
+```
